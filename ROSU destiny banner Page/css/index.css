@@ -1,0 +1,14 @@
+.banner{
+    background-color: red;
+    color: aliceblue;
+    margin-top: 75px;
+    padding: 100px;
+    text-align: center;
+}
+#Rosu{
+    color: blue;
+    font-size: 80px;
+}
+.bold{
+    font-weight: 500;
+}
